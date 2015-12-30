@@ -8,7 +8,7 @@ The Paris Watch is the first part of this project. This is a simple application 
 ![alt tag](https://raw.github.com/Msimoneau/paris/master/img/Pebble.png)
 
 <hr>
-#### Roadmap for the Paris Watch
+#### Roadmap for the Paris Watch application
 * The Apple Watch version
 * Internationalization and localization
 * Documentation
