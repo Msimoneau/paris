@@ -105,7 +105,11 @@ static void canvas_update_proc(Layer *this_layer, GContext *ctx) {
          if (i == 0 || i == (s_nb_mark/2)){
             graphics_context_set_fill_color(ctx, GColorBlack);
          }else{
-            graphics_context_set_fill_color(ctx, GColorWhite);
+            if (COLORS_FLAG){
+               graphics_context_set_fill_color(ctx, GColorWhite);
+            } else {
+               graphics_context_set_fill_color(ctx, GColorBlack);
+            }
          }
          GPoint pos = gpoint_from_polar(grect_inset(bounds, GEdgeInsets(12)), GOvalScaleModeFitCircle, DEG_TO_TRIGANGLE(hour_dot));
          graphics_fill_circle(ctx, pos, 3);
