@@ -13,7 +13,7 @@ The Paris Watch is the first part of this project. This is a simple application 
 * Internationalization and localization
 * Documentation
 * The Android Watch version
-* 
+
 
 
 ------
