@@ -18,9 +18,5 @@ The Paris Watch is the first part of this project. This is a simple application 
 
 ------
 
-Creative Commons License 
-
-By Martin Simoneau is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License.](http://creativecommons.org/licenses/by-nc/4.0/)
-
-
-![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)<br>
+Except where otherwise noted, content on this project is under a [Creative Commons Attribution-NonCommercial 4.0 International License.](http://creativecommons.org/licenses/by-nc/4.0/)
